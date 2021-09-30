@@ -11,3 +11,8 @@ h1 {
 .space-height {
     height: 100px;
 }
+
+.dark-mode {
+    background-color: black;
+    color: #fff;
+}
